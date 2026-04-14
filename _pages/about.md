@@ -99,7 +99,7 @@ My primary research and engineering interests include:
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <!-- add microsoft_logo.png to assets/imgs/ -->
+      <img src="/assets/imgs/microsoft_logo.png" width="150">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>Microsoft</strong><br/>
@@ -121,7 +121,7 @@ My primary research and engineering interests include:
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <!-- add uiuc_logo.png to assets/imgs/ -->
+      <img src="/assets/imgs/uiuc_logo.png" width="150">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>University of Illinois Urbana-Champaign</strong><br/>
@@ -144,7 +144,7 @@ My primary research and engineering interests include:
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <!-- add novelis_logo.png to assets/imgs/ -->
+      <img src="/assets/imgs/novelis_logo.png" width="150">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>Novelis Inc.</strong><br/>
@@ -164,7 +164,7 @@ My primary research and engineering interests include:
 
   <tr style="border:none;">
     <td style="width:180px; vertical-align:top; border:none; padding:8px 0;">
-      <!-- add verse_logo.png to assets/imgs/ -->
+      <img src="/assets/imgs/verse_logo.png" width="150">
     </td>
     <td style="vertical-align:top; border:none; padding-left:16px; width:50%;">
       <strong>VerSe Innovation</strong><br/>
