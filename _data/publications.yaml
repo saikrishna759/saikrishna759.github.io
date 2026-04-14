@@ -1,0 +1,14 @@
+papers:
+  - title: "Image-Based Jailbreaking in Multimodal RAG Systems"
+    image: "/assets/imgs/mmpoisonrag_teaser.png"
+    paper_pdf: "https://arxiv.org/pdf/2502.17832"
+    authors: "<b>Saikrishna Sanniboina</b> and collaborators"
+    venue: "ACL 2026"
+    selected: y
+
+  - title: "Logit-Ranked Retriever Ensemble (LoRE)"
+    image: "/assets/imgs/lore_teaser.png"
+    paper_pdf: "https://arxiv.org/pdf/2410.10042"
+    authors: "<b>Saikrishna Sanniboina</b> and collaborators"
+    venue: "CIKM 2024 Workshop on GenAI and RAG Systems for Enterprise (Oral)"
+    selected: y
